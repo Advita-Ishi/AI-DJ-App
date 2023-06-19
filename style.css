@@ -1,0 +1,28 @@
+.heading {
+    font-size: 20px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note_heading {
+    font-size: 15px;
+    color: black;
+}
+
+body {
+    background: url("background.jpg");
+    background-size: cover;
+}
+
+.speed {
+    float: left;
+}
+
+.gif_bg {
+    width: 200px;
+    border-radius: 100px;
+}
+
+.volume {
+    float: right;
+}
