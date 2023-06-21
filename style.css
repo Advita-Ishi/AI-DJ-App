@@ -26,3 +26,15 @@ body {
 .volume {
     float: right;
 }
+
+.playbutton {
+ width: 100px;
+ font-size: 25px;
+}
+
+canvas {
+    border: 5px solid whitesmoke;
+    border-radius: 20px;
+    margin-top: 80px;
+    box-shadow: 5px 10px 15px lightskyblue;
+}
